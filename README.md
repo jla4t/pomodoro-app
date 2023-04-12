@@ -35,9 +35,9 @@ You can customize the timer settings by changing the default values in the pomod
 python
 
 # Timer settings
-WORK_MIN = x * 60
-SHORT_BREAK_MIN = y * 60
-LONG_BREAK_MIN = z * 60
+    WORK_MIN = x * 60
+    SHORT_BREAK_MIN = y * 60
+    LONG_BREAK_MIN = z * 60
 
 Contributing
 
