@@ -7,7 +7,7 @@ Features
     Countdown timer with adjustable duration
     Start and reset buttons for controlling the timer
     Timer shown to visualize the time remaining
-    Option to customize the application settings, such as the timer durations and sound notifications
+    Option to customize the application settings, such as the timer durations
 
 Requirements
 
