@@ -32,8 +32,6 @@ Customization
 
 You can customize the timer settings by changing the default values in the pomodoro_timer.py script. For example, you can adjust the default work duration, short break duration, and long break duration (x, y, and z)
 
-python
-
 # Timer settings
     WORK_MIN = x * 60
     SHORT_BREAK_MIN = y * 60
