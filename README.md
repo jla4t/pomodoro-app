@@ -13,7 +13,6 @@ Requirements
 
     Python 3.x
     Tkinter (Python's standard GUI library)
-    Playsound (Python library for playing audio files)
 
 Installation
 
